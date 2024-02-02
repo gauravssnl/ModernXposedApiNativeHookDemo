@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ModernXposedApiNativeHookDemo</string>
+    <string name="description">Modern Xposed Api Native Hook Demo</string>
+</resources>
