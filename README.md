@@ -2,7 +2,7 @@
 
 Modern XPosed API Native Demo app based on libxposed-api library from LSPosed Team. This has been developed using the below resources & libraries.
 
-Develop XPosed Modules using Modern Xposed API wiki (Native module) : https://github.com/LSPosed/LSPosed/wiki/Develop-Xposed-Modules-Using-Modern-Xposed-API
+Develop XPosed Modules using Modern Xposed API wiki (Native module): https://github.com/LSPosed/LSPosed/wiki/Develop-Xposed-Modules-Using-Modern-Xposed-API
 
 Libxposed API: https://github.com/libxposed/api
 Libxposed API example: https://github.com/libxposed/example
